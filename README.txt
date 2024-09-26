@@ -1,7 +1,5 @@
-UNFINISHED PROJECT:
+SMALL, TEMPORARY PROJECT:
 
-Was supposed to: Teach me ML and TF 
+Goal was to: Teach me ML and TF 
 
-Still, it taught me:
-- Uhhh... ML and TF... duh...
-
+Goal was successful
